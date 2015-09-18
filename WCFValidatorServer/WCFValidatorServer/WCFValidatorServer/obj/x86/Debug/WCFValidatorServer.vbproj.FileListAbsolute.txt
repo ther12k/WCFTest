@@ -1,0 +1,10 @@
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\bin\Debug\WCFValidatorServer.exe.config
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\bin\Debug\WCFValidatorServer.exe
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\bin\Debug\WCFValidatorServer.pdb
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\bin\Debug\WCFValidatorServer.xml
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\obj\x86\Debug\WCFValidatorServer.Form1.resources
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\obj\x86\Debug\WCFValidatorServer.Resources.resources
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\obj\x86\Debug\WCFValidatorServer.vbproj.GenerateResource.Cache
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\obj\x86\Debug\WCFValidatorServer.exe
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\obj\x86\Debug\WCFValidatorServer.xml
+D:\workspace\WCFValidatorServer\WCFValidatorServer\WCFValidatorServer\obj\x86\Debug\WCFValidatorServer.pdb

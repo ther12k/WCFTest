@@ -1,0 +1,10 @@
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\obj\Debug\WCFValidatorClient.Resources.resources
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\obj\Debug\WCFValidatorClient.vbproj.GenerateResource.Cache
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\bin\WCFValidatorClient.dll
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\bin\WCFValidatorClient.pdb
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\bin\WCFValidatorClient.xml
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\bin\EntityFramework.dll
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\bin\EntityFramework.xml
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\obj\Debug\WCFValidatorClient.dll
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\obj\Debug\WCFValidatorClient.xml
+D:\workspace\WCFValidatorClient\WCFValidatorClient\WCFValidatorClient\obj\Debug\WCFValidatorClient.pdb
